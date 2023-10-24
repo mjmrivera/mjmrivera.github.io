@@ -1,4 +1,4 @@
-# Michael Rivera FAQs by Recruiter OR Hiring Manager
+# Michael Rivera FAQs by Recruiters and Hiring Managers
 
 ## Professional Summary
 - I am Michael Rivera. I am looking for one of the following entry-level IT roles:
