@@ -110,6 +110,3 @@
 ## Challenging Issue: Missed deadline
 - "Tell me about a time when you missed an important deadline."
 	- When I was with Walmart I got scolded when I failed to meet expectations for the number of freight pallets worked in a single night because I was unusually tired that day. I solved this problem from that day onwards by ensuring I drank enough protein for energy during lunch.
-
-## Banking Details
-- [[Michael Rivera Banking Details|In another file]]
